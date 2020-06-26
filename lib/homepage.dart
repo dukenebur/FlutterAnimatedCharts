@@ -173,7 +173,7 @@ class _HomePageState extends State<HomePage> {
                 Tab(icon: Icon(FontAwesomeIcons.chartLine)),
               ],
             ),
-            title: Text('Flutter Charts'),
+            title: Text('Bruno gatooooooooooooooooooooooooooooooooooooo'),
           ),
           body: TabBarView(
             children: [
