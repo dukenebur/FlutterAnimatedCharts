@@ -46699,7 +46699,7 @@ t.d=H.a([],u.rd)
 t.e=H.a([],u.qb)
 t.f=H.a([],u.zG)
 t.J_()},
-P:function(a){var t,s,r,q,p,o,n,m,l,k,j=null,i=u.t,h=new E.tq(H.a([E.a0K(L.Nw(C.wo)),E.a0K(L.Nw(C.wp)),E.a0K(L.Nw(C.wq))],i),new P.F(4288242384),j),g=L.nh("Flutter Charts",j,j,j),f=h.gtU()
+P:function(a){var t,s,r,q,p,o,n,m,l,k,j=null,i=u.t,h=new E.tq(H.a([E.a0K(L.Nw(C.wo)),E.a0K(L.Nw(C.wp)),E.a0K(L.Nw(C.wq))],i),new P.F(4288242384),j),g=L.nh("Bruno gatooooooooooooooooooooooooooooooooooooo",j,j,j),f=h.gtU()
 f=f.b
 if(f==null)f=0
 t=L.nh("SO\u2082 emissions, by world region (in million tonnes)",j,j,A.hn(j,j,j,j,j,j,j,j,j,j,j,24,j,C.bt,j,j,!0,j,j,j,j,j,j))
